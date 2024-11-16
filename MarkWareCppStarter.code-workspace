@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "test",
+			"path": "test"
+		},
+		{
+			"name": "standalone",
+			"path": "standalone"
+		},
+		{
+			"name": "MarkWareCppStarter",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
