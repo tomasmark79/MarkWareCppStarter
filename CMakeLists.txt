@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.14...3.22)
 
 # ---- Project ----
+# heavy dependencies connect always here to avoid often rebuilding if standalone changed
 
 # Note: update this to your new project's name and version
 project(
